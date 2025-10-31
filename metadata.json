@@ -1,0 +1,7 @@
+{
+  "name": "AI Sales & Marketing Voice Agent",
+  "description": "An AI-powered voice agent designed for sales and marketing conversations, supporting 10 different languages to engage with a global audience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
